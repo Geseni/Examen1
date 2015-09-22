@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pelicula1">Pelicula1</string>
+    <string name="title_activity_pelicula2">Pelicula2</string>
+    <string name="title_activity_pelicula3">Pelicula3</string>
+    <string name="title_activity_pelicula4">Pelicula4</string>
+</resources>

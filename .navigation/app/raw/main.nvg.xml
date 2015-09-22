@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen1.Pelicula4"/>
+      <point      
+        x = "1848"      
+        y = "1216"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen1.Pelicula3"/>
+      <point      
+        x = "960"      
+        y = "1112"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen1.Pelicula2"/>
+      <point      
+        x = "104"      
+        y = "1064"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen1.Pelicula1"/>
+      <point      
+        x = "64"      
+        y = "20"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.geseni_pc.examen1.CineAdventista"/>
+      <point      
+        x = "2560"      
+        y = "-20"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
